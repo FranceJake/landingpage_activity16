@@ -34,6 +34,7 @@ body {
 
 form {
     width: 50vh;
+    min-width: 80%;
     padding: 10px;
     background-color: white;
     border-radius: 10px;
@@ -50,4 +51,8 @@ form {
     text-decoration: underline;
     color: blue;
     cursor: pointer;
+}
+
+div {
+    border: 1px solid white;
 }
